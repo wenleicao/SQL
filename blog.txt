@@ -1,0 +1,5 @@
+gitbub to host a site
+
+http://blog.revolunet.com/blog/2015/07/15/beautiful-static-website-in-minutes-with-github/
+
+http://cenalulu.github.io/jekyll/how-to-build-a-blog-using-jekyll-markdown/
